@@ -1,4 +1,4 @@
-https://www.canva.com/brand/join?token=KYGdHAQBcB7N321GrGu86Q&referrer=team-invite
+https://www.canva.com/design/DAFn3WuP594/eEf-Ci-29_QdCK5v1L3O_A/edit?utm_content=DAFn3WuP594&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 # Getting Started with Create React App
 
